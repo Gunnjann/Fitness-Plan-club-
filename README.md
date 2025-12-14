@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏋️ FitPlanHub - Fitness Plans & Trainer Platform
 
 A full-stack web application where certified trainers can create and manage fitness plans, and users can browse, subscribe to plans, and follow their favorite trainers.
@@ -316,3 +317,6 @@ Follow this checklist to ensure everything is set up correctly:
 
 
 
+=======
+# Fitness-Plan-club-
+>>>>>>> 183df00e4745758b3ecb0a136bfb571673a4c57c
